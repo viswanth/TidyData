@@ -1,4 +1,7 @@
 #assuming the data set is unzipped into the folder "UCI HAR Dataset" within the current working directory
+#if not download the data from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" 
+#Unzip the folder in the working directory
+
 
 #read the X_train training and test data sets into X_train and X_test dataframe 
 X_train <- read.table("UCI HAR Dataset/train/X_train.txt")
