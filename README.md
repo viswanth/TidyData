@@ -7,3 +7,5 @@ This repository contains a R script to extract data from "http://archive.ics.uci
 This repository containts run_analysis.R file which contains the code to label the data set with descriptive activity names and outputs a tidy data set with the average of each variable for each activity and each subject. This script is heavily commented with what each step is intended for. 
 
 Also included is a CodeBook.md which explains each variable and its purpose.
+
+****The script here takes around 50 secs to 1 min. Please be patient after execution. Will bring down the time in the next edit. 
